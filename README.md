@@ -1,5 +1,10 @@
 # stream-websocket-python-javascript
-
+<h3><strong>Сервер</strong> - c++/python:</h3>
+   <li>получаю нужное окно C++</li> 
+   <li>данные окна отправляю в python</li>
+   <li>отправляю клиенту</li>
+<h3><strong>Клиент</strong> - javascript:</h3>
+   <li>получаю даные</li>
 # Запуск:
 
 компиляция
