@@ -1,8 +1,8 @@
 # stream-websocket-python-javascript
 <h3><strong>Сервер</strong> - c++/python:</h3>
-   <li>получаю нужное окно C++</li> 
-   <li>данные окна отправляю в python</li>
-   <li>отправляю клиенту</li>
+   <li>1 получаю нужное окно C++</li> 
+   <li>2 данные окна отправляю в python</li>
+   <li>3 отправляю клиенту браузера</li>
 <h3><strong>Клиент</strong> - javascript:</h3>
    <li>получаю даные</li>
    
