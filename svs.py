@@ -59,7 +59,7 @@ app = tornado.web.Application([
     ])
 app.listen(8800)
 
-print("Starting server")
+print("Starting server: http://xxx.xx.xx.xxx:8800/") # IP
 
 tornado.ioloop.IOLoop.current().start()
 
